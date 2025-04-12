@@ -13,7 +13,7 @@ import './styles.css';
 const configFiles = {
     'prod': 'https://main--eds-experiment-april-2025--skar2019.aem.live/configs.json?sheet=prod',
     'stage': 'https://main--eds-experiment-april-2025--skar2019.aem.live/configs.json?sheet=prod',
-    'dev': 'hhttps://main--eds-experiment-april-2025--skar2019.aem.live/configs.json?sheet=prod',
+    'dev': 'https://main--eds-experiment-april-2025--skar2019.aem.live/configs.json?sheet=prod',
 }
 /**
  * Default configuration to be loaded.
