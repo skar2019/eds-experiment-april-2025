@@ -1,16 +1,16 @@
 {
 	"version": 1,
 	"code": {
-		"owner": "{ORG}",
-		"repo": "{REPO}",
+		"owner": "skar2019",
+		"repo": "eds-experiment-april-2025",
 		"source": {
 			"type": "github",
-			"url": "https://github.com/{ORG}/{REPO}"
+			"url": "https://github.com/skar2019/eds-experiment-april-2025"
 		}
 	},
 	"content": {
 		"source": {
-			"url": "https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce",
+			"url": "https://adobe.sharepoint.com/:f:/r/sites/eds-experiment-april-2025/Shared%20Documents/starter-content-commerce?csf=1&web=1&e=ycjJ2q",
 			"type": "onedrive"
 		}
 	},
@@ -19,10 +19,10 @@
 	},
 	"cdn": {
 		"live": {
-			"host": "main--{SITE}--{ORG}.aem.live"
+			"host": "https://main--eds-experiment-april-2025--skar2019.aem.live/"
 		},
 		"preview": {
-			"host": "main--{SITE}--{ORG}.aem.page"
+			"host": "https://main--eds-experiment-april-2025--skar2019.aem.page/"
 		}
 	},
 	"headers": {
@@ -57,7 +57,7 @@
 				"environments": [
 					"edit"
 				],
-				"url": "https://main--{SITE}--{ORG}.aem.live/tools/picker/dist/index.html",
+				"url": "https://main--eds-experiment-april-2025--skar2019.aem.live/tools/picker/dist/index.html",
 				"isPalette": true,
 				"paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
 			},
@@ -67,7 +67,7 @@
 				"environments": [
 					"edit"
 				],
-				"url": "https://main--{SITE}--{ORG}.aem.live/tools/segments/dist/index.html",
+				"url": "https://main--eds-experiment-april-2025--skar2019.aem.live/tools/segments/dist/index.html",
 				"isPalette": true,
 				"paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
 			}
