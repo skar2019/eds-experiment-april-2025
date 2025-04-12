@@ -1,0 +1,17 @@
+{
+    "blocks": [
+      {
+        "name": "cards",
+        "path": "/tools/sidekick/blocks/cards"
+      },
+      {
+        "name": "carousel",
+        "path": "/tools/sidekick/blocks/carousel"
+      },
+      {
+        "name": "tabs",
+        "path": "/tools/sidekick/blocks/tabs"
+      }
+    ]
+  }
+  
