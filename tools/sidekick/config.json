@@ -8,7 +8,8 @@
                 "edit"
             ],
             //"url": "https://main--eds-experiment-april-2025--skar2019.aem.live/tools/picker/dist/index.html",
-            "url": "https://main--{SITE}--{ORG}.aem.live/tools/picker/dist/index.html",
+            //"url": "https://main--{SITE}--{ORG}.aem.live/tools/picker/dist/index.html",
+            "url": "https://main--aem-boilerplate-commerce--hlxsites.hlx.live/tools/picker/dist/index.html",
             "isPalette": true,
             "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
         },
